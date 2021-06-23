@@ -7,6 +7,7 @@ export default function App() {
     var a = '1';
   })();
   console.log(a);
+  console.log(a);
   return (
     <div>
       <h1>Hello StackBlitz!</h1>
