@@ -8,6 +8,7 @@ export default function App() {
   })();
   console.log(a);
   console.log(a);
+
   return (
     <div>
       <h1>Hello StackBlitz!</h1>
