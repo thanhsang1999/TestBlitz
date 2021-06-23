@@ -3,7 +3,9 @@ import './style.css';
 
 export default function App() {
   var a = 'sang';
-  var a = 'sang1';
+  (() => {
+    var a = '1';
+  })();
   console.log(a);
   return (
     <div>
